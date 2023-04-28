@@ -1,3 +1,3 @@
 # potential-memory-fz
 
-Repo ini untuk belajar forking web 14
+:yum: Repo ini untuk belajar forking web 14 :yum:
